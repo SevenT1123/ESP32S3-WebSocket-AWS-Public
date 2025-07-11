@@ -5,3 +5,4 @@
 - Framework provided by Tomasz Tarnowski
   - Youtube: https://www.youtube.com/@tomasztarnowski4434
   - Github: https://github.com/ttarnowski
+- I deleted the S3 bucket which is required for the website to be deployed. So the link cannot be accessed. It would return a 404 not found
